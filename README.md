@@ -129,7 +129,10 @@ git clone git@github.com:fabiohbarbosa/vagrant-windows.git
 vagrant up
 ```
 
-### Vagrant remote connection
+### Vagrant remote connection (Optional)
+
+When vm.gui is false, use remote desktop
+
 ```sh
 vagrant rdp
 ```
