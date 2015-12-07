@@ -131,7 +131,7 @@ vagrant up
 
 ### Vagrant remote connection (Optional)
 
-When vm.gui is false, use remote desktop
+When **vm.gui** is false, use remote desktop
 
 ```sh
 vagrant rdp
